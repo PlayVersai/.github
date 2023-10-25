@@ -1,5 +1,5 @@
 # Versai
-  Versai is an upcoming server that offers prison, kitpvp, and mini-games with distinctive features. We have the capability to scale indefinitely!
+  Versai is an upcoming server that offers prison, kitpvp, and mini-games with distinctive features. We have the capability to scale indefinitely
 
   ## Table of Contents
   * [Contribution](#contribution)
