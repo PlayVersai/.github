@@ -1,12 +1,12 @@
-## Hi there 👋
+# Versai
+  Versai is an upcoming server that offers prison, kitpvp, and mini-games with distinctive features. We have the capability to scale indefinitely
 
-<!--
+  ## Table of Contents
+  * [Contribution](#contribution)
+  * [Inquiries](#inquiries)
 
-**Here are some ideas to get you started:**
+  ## Contribution 
+  If you wish to contribute, simply submit a pull request, and one of our managers or developers will review it when available.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  ## Inquiries
+  If you have any questions regarding this project, please feel free to reach out to us directly on our Discord server at https://discord.versai.pro. You can also explore more of our projects on https://github.com/PlayVersai.
